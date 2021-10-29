@@ -1,6 +1,6 @@
 # Hacktoberfest 2021 Leaderboard.
-### Updated: Fri, 29 Oct 2021 13:27:56 -0600
-1. [andrewsomething](https://github.com/andrewsomething) - 12
+### Updated: Fri, 29 Oct 2021 15:12:32 -0600
+1. [andrewsomething](https://github.com/andrewsomething) - 13
 2. [ADustyOldMuffin](https://github.com/ADustyOldMuffin) - 11
 3. [vaskoz](https://github.com/vaskoz) - 7
 4. [creativefisher](https://github.com/creativefisher) - 4
